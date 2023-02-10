@@ -1,0 +1,32 @@
+html {
+  background-color: lavender;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 2px solid black;
+  width: 500px;
+  margin: auto;
+  padding: 25px 75px;
+  border-radius: 50px;
+}
+
+h1 {
+  color: brown;
+}
+
+h2 {
+  color: blue;
+  text-decoration: underline;
+}
+
+h3 {
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+h4 {
+  color: indigo;
+  text-decoration: underline;
+}
